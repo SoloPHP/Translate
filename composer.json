@@ -2,6 +2,7 @@
   "name": "solophp/translate",
   "type": "library",
   "description": "PHP library that provides a simple way to retrieve strings in various languages",
+  "abandoned": true,
   "keywords": ["languages","translate","strings","php"],
   "license": "MIT",
   "authors": [
